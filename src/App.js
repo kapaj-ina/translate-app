@@ -1,11 +1,7 @@
-import "./App.css";
+import TranslatePage from "./pages/TranslateApp";
 
 function App() {
-  return (
-    <div className="App">
-      <p>TEST</p>
-    </div>
-  );
+  return <TranslatePage />;
 }
 
 export default App;
